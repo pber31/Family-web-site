@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>San Francisco</title>
+    <link>http://philippeberard.toile-libre.org/usa/USA/San_Francisco/San_Francisco.html</link>
+    <description>San Francisco</description>
+    <item>
+      <title>Appartement</title>
+      <link>http://philippeberard.toile-libre.org/usa/USA/San_Francisco/Pages/Appartement.html</link>
+      <guid isPermaLink="false">0e4ac429-820e-4a24-9cab-5ce89d12b9aa</guid>
+    </item>
+    <item>
+      <title>Twin Peaks</title>
+      <link>http://philippeberard.toile-libre.org/usa/USA/San_Francisco/Pages/Twin_Peaks.html</link>
+      <guid isPermaLink="false">607f2988-9cee-49bf-8f49-edeb0a70f909</guid>
+    </item>
+    <item>
+      <title>Pompiers</title>
+      <link>http://philippeberard.toile-libre.org/usa/USA/San_Francisco/Pages/Pompiers.html</link>
+      <guid isPermaLink="false">6f59ccae-416f-4fbb-ab20-18c3f4557562</guid>
+    </item>
+    <item>
+      <title>Russian Hill</title>
+      <link>http://philippeberard.toile-libre.org/usa/USA/San_Francisco/Pages/Russian_Hill.html</link>
+      <guid isPermaLink="false">a826d82c-988a-42c3-871b-72eaa650f771</guid>
+    </item>
+    <item>
+      <title>Baie</title>
+      <link>http://philippeberard.toile-libre.org/usa/USA/San_Francisco/Pages/Baie.html</link>
+      <guid isPermaLink="false">0c57686e-5710-4fbc-8b26-a7cbe7e4b5f2</guid>
+    </item>
+    <item>
+      <title>Alcatraz</title>
+      <link>http://philippeberard.toile-libre.org/usa/USA/San_Francisco/Pages/Alcatraz.html</link>
+      <guid isPermaLink="false">3ad9cfa5-af1c-45d1-9de3-c67650b2921d</guid>
+    </item>
+    <item>
+      <title>Trolleys</title>
+      <link>http://philippeberard.toile-libre.org/usa/USA/San_Francisco/Pages/Trolleys.html</link>
+      <guid isPermaLink="false">c65b522a-627c-4858-b783-c8be228790b2</guid>
+    </item>
+    <item>
+      <title>City center</title>
+      <link>http://philippeberard.toile-libre.org/usa/USA/San_Francisco/Pages/City_center.html</link>
+      <guid isPermaLink="false">e3ba3b42-6c9f-41ef-8171-5a7cb4f4f564</guid>
+    </item>
+    <item>
+      <title>USS O'Brien</title>
+      <link>http://philippeberard.toile-libre.org/usa/USA/San_Francisco/Pages/USS_OBrien.html</link>
+      <guid isPermaLink="false">26ef1c8c-02e5-47d3-a004-5f11c6c5ab40</guid>
+    </item>
+    <item>
+      <title>Walt Disney Museum</title>
+      <link>http://philippeberard.toile-libre.org/usa/USA/San_Francisco/Pages/Walt_Disney_Museum.html</link>
+      <guid isPermaLink="false">850c3380-85c7-4851-9527-75cf25474c3f</guid>
+    </item>
+  </channel>
+</rss>
