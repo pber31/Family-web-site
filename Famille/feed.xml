@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:B2ED0924-C2EE-4B7D-AE53-E1EA61367331</id>
+ <title>Page list Atom feed</title>
+ <updated>2026-10-07T09:58:51+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:1AF880D8-B2DE-48D6-AFE7-14D960B7735E</id>
+  <title>Accueil</title>
+  <title xmlns="urn:iweb:">Accueil</title>
+  <in-navbar xmlns="urn:iweb:">1AF880D8-B2DE-48D6-AFE7-14D960B7735E</in-navbar>
+  <link rel="alternate" href="Accueil.html"/>
+  <updated>2026-10-07T09:58:51.001+02:00</updated>
+  <content>Accueil</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:4B8376CF-FBAB-4E30-ACFE-C8F7F38B520F</id>
+  <title>2008</title>
+  <title xmlns="urn:iweb:">2008</title>
+  <in-navbar xmlns="urn:iweb:">4B8376CF-FBAB-4E30-ACFE-C8F7F38B520F</in-navbar>
+  <link rel="alternate" href="2008/2008.html"/>
+  <updated>2026-10-07T09:58:51.002+02:00</updated>
+  <content>2008</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:15C9480D-8551-4CDE-8AA6-9DA1A4377DD4</id>
+  <title>2009</title>
+  <title xmlns="urn:iweb:">2009</title>
+  <in-navbar xmlns="urn:iweb:">15C9480D-8551-4CDE-8AA6-9DA1A4377DD4</in-navbar>
+  <link rel="alternate" href="2009/2009.html"/>
+  <updated>2026-10-07T09:58:51.003+02:00</updated>
+  <content>2009</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:9764C88E-0825-474D-97C0-37EB9017EFCC</id>
+  <title>2010</title>
+  <title xmlns="urn:iweb:">2010</title>
+  <in-navbar xmlns="urn:iweb:">9764C88E-0825-474D-97C0-37EB9017EFCC</in-navbar>
+  <link rel="alternate" href="2010/2010.html"/>
+  <updated>2026-10-07T09:58:51.004+02:00</updated>
+  <content>2010</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:1A4D44C3-ED91-4DF5-A9A6-73F88321F3AA</id>
+  <title>2011</title>
+  <title xmlns="urn:iweb:">2011</title>
+  <in-navbar xmlns="urn:iweb:">1A4D44C3-ED91-4DF5-A9A6-73F88321F3AA</in-navbar>
+  <link rel="alternate" href="2011/2011.html"/>
+  <updated>2026-10-07T09:58:51.005+02:00</updated>
+  <content>2011</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:5E89BC2C-BF41-423A-A2DE-CDB6CE3F06C2</id>
+  <title>2012</title>
+  <title xmlns="urn:iweb:">2012</title>
+  <in-navbar xmlns="urn:iweb:">5E89BC2C-BF41-423A-A2DE-CDB6CE3F06C2</in-navbar>
+  <link rel="alternate" href="2012/2012.html"/>
+  <updated>2026-10-07T09:58:51.006+02:00</updated>
+  <content>2012</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C5EEC36F-916F-4954-94FC-BE9A98B13FB8</id>
+  <title>2013</title>
+  <title xmlns="urn:iweb:">2013</title>
+  <in-navbar xmlns="urn:iweb:">C5EEC36F-916F-4954-94FC-BE9A98B13FB8</in-navbar>
+  <link rel="alternate" href="2013/2013.html"/>
+  <updated>2026-10-07T09:58:51.007+02:00</updated>
+  <content>2013</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B0F6F31D-DA35-44B0-A646-2BE112BAABC1</id>
+  <title>2014</title>
+  <title xmlns="urn:iweb:">2014</title>
+  <in-navbar xmlns="urn:iweb:">B0F6F31D-DA35-44B0-A646-2BE112BAABC1</in-navbar>
+  <link rel="alternate" href="2014/2014.html"/>
+  <updated>2026-10-07T09:58:51.008+02:00</updated>
+  <content>2014</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C67DA8C4-ECBD-4687-B910-4E72BC2C12A5</id>
+  <title>2015</title>
+  <title xmlns="urn:iweb:">2015</title>
+  <in-navbar xmlns="urn:iweb:">C67DA8C4-ECBD-4687-B910-4E72BC2C12A5</in-navbar>
+  <link rel="alternate" href="2015/2015.html"/>
+  <updated>2026-10-07T09:58:51.009+02:00</updated>
+  <content>2015</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FB9F43B7-0BFD-4954-9B41-471661B4D0DB</id>
+  <title>2016</title>
+  <title xmlns="urn:iweb:">2016</title>
+  <in-navbar xmlns="urn:iweb:">FB9F43B7-0BFD-4954-9B41-471661B4D0DB</in-navbar>
+  <link rel="alternate" href="2016/2016.html"/>
+  <updated>2026-10-07T09:58:51.010+02:00</updated>
+  <content>2016</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:14A4D660-359B-45CA-A5FC-0763F9252C60</id>
+  <title>2018</title>
+  <title xmlns="urn:iweb:">2018</title>
+  <in-navbar xmlns="urn:iweb:">14A4D660-359B-45CA-A5FC-0763F9252C60</in-navbar>
+  <link rel="alternate" href="2018/2018.html"/>
+  <updated>2026-10-07T09:58:51.011+02:00</updated>
+  <content>2018</content>
+ </entry>
+</feed>

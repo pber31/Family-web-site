@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>PHOTOS 2015</title>
+    <link>http://philippe.berard1.free.fr/Famille/2015/2015.html</link>
+    <description>PHOTOS 2015</description>
+    <item>
+      <title>Les Cousines</title>
+      <link>http://philippe.berard1.free.fr/Famille/2015/Pages/Les_Cousines.html</link>
+      <guid isPermaLink="false">0516c3f0-8e0d-4a4e-8354-38307a85f652</guid>
+    </item>
+    <item>
+      <title>Pâques</title>
+      <link>http://philippe.berard1.free.fr/Famille/2015/Pages/Paques.html</link>
+      <guid isPermaLink="false">9e7ab465-3235-46db-a83f-12620ddbe753</guid>
+    </item>
+    <item>
+      <title>Corse</title>
+      <link>http://philippe.berard1.free.fr/Famille/2015/Pages/Corse.html</link>
+      <guid isPermaLink="false">1ed336f0-6091-4bfb-9c12-26deee39be5e</guid>
+    </item>
+    <item>
+      <title>Anniv Elise</title>
+      <link>http://philippe.berard1.free.fr/Famille/2015/Pages/Anniv_Elise.html</link>
+      <guid isPermaLink="false">c6f7fbf8-ad11-4139-ab2d-a98332a7e47c</guid>
+    </item>
+    <item>
+      <title>WE à 2</title>
+      <link>http://philippe.berard1.free.fr/Famille/2015/Pages/WE_a_2.html</link>
+      <guid isPermaLink="false">0d2a9aec-ecae-4308-b23e-be7c0bcde382</guid>
+    </item>
+    <item>
+      <title>Lunel</title>
+      <link>http://philippe.berard1.free.fr/Famille/2015/Pages/Lunel.html</link>
+      <guid isPermaLink="false">93aea141-6090-434b-bc29-32a33cc57a8a</guid>
+    </item>
+    <item>
+      <title>Ferme aux crocodiles</title>
+      <link>http://philippe.berard1.free.fr/Famille/2015/Pages/Ferme_aux_crocodiles.html</link>
+      <guid isPermaLink="false">9bd28476-60ed-41c0-bc12-48c074e6766b</guid>
+    </item>
+    <item>
+      <title>Noël 2015</title>
+      <link>http://philippe.berard1.free.fr/Famille/2015/Pages/Noel_2015.html</link>
+      <guid isPermaLink="false">ddf37eda-4d55-4f21-8fc6-067c74374412</guid>
+    </item>
+  </channel>
+</rss>

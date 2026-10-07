@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Vietnam</title>
+    <link>http://philippe.berard1.free.fr/Famille/Vietnam-Index/Vietnam-Index.html</link>
+    <description>Vietnam</description>
+    <item>
+      <title>Hanoi</title>
+      <link>http://philippe.berard1.free.fr/Famille/Vietnam-Index/Pages/Hanoi.html</link>
+      <guid isPermaLink="false">be4f6fdf-72ba-4834-99dd-a56c8df14731</guid>
+    </item>
+    <item>
+      <title>HaLong</title>
+      <link>http://philippe.berard1.free.fr/Famille/Vietnam-Index/Pages/HaLong.html</link>
+      <guid isPermaLink="false">8ec34614-ddd8-42b6-940b-84c699df38e6</guid>
+    </item>
+    <item>
+      <title>Sapa</title>
+      <link>http://philippe.berard1.free.fr/Famille/Vietnam-Index/Pages/Sapa.html</link>
+      <guid isPermaLink="false">88b3a6bd-ed08-4757-80a2-0f901beb3ba4</guid>
+    </item>
+    <item>
+      <title>Autour de Hue</title>
+      <link>http://philippe.berard1.free.fr/Famille/Vietnam-Index/Pages/Autour_de_Hue.html</link>
+      <guid isPermaLink="false">6b0a582f-210e-486c-99cf-992e8f5e1532</guid>
+    </item>
+    <item>
+      <title>Hue Cité Impériale</title>
+      <link>http://philippe.berard1.free.fr/Famille/Vietnam-Index/Pages/Hue_Cite_Imperiale.html</link>
+      <guid isPermaLink="false">14c91262-c0e4-4284-b610-c923f19f543c</guid>
+    </item>
+  </channel>
+</rss>

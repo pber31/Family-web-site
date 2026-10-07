@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>2008</title>
+    <link>http://philippe.berard1.free.fr/Famille/2008/2008.html</link>
+    <description>2008</description>
+    <item>
+      <title>Baptème d'Elise</title>
+      <link>http://philippe.berard1.free.fr/Famille/2008/Pages/Bapteme_dElise.html</link>
+      <guid isPermaLink="false">9658e62e-a516-42c4-bd93-907a8fdbdd5b</guid>
+    </item>
+    <item>
+      <title>Vacances Morbihan</title>
+      <link>http://philippe.berard1.free.fr/Famille/2008/Pages/Vacances_Morbihan.html</link>
+      <guid isPermaLink="false">eeecdcba-d141-4695-bbdc-a37f974416e1</guid>
+    </item>
+    <item>
+      <title>Montgolfière</title>
+      <link>http://philippe.berard1.free.fr/Famille/2008/Pages/Montgolfiere.html</link>
+      <guid isPermaLink="false">f8c75413-d411-4016-af56-068d6420d3ef</guid>
+    </item>
+    <item>
+      <title>Fin des vacances</title>
+      <link>http://philippe.berard1.free.fr/Famille/2008/Pages/Fin_des_vacances.html</link>
+      <guid isPermaLink="false">508462d1-6ecf-42a2-ad65-4a9ca4089eed</guid>
+    </item>
+    <item>
+      <title>Noël 2008</title>
+      <link>http://philippe.berard1.free.fr/Famille/2008/Pages/Noel_2008.html</link>
+      <guid isPermaLink="false">3e45908a-8618-45ca-bdf4-b511cf9dd7ab</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Photos 2018</title>
+    <link>http://philippe.berard1.free.fr/Famille/2018/2018.html</link>
+    <description>Photos 2018</description>
+    <item>
+      <title>Gaillac</title>
+      <link>http://philippe.berard1.free.fr/Famille/2018/Pages/Gaillac.html</link>
+      <guid isPermaLink="false">6ac44eee-f4c0-4cda-9ddc-8b8cc3cb8f79</guid>
+    </item>
+  </channel>
+</rss>
