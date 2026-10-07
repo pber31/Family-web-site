@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Photos 2016</title>
+    <link>http://philippe.berard1.free.fr/Famille/2016/2016.html</link>
+    <description>Photos 2016</description>
+    <item>
+      <title>Irlande</title>
+      <link>http://philippe.berard1.free.fr/Famille/2016/Pages/Irlande.html</link>
+      <guid isPermaLink="false">7a29b3db-c377-4c32-9ae6-1b12de292403</guid>
+    </item>
+    <item>
+      <title>Ionesco à Marseille</title>
+      <link>http://philippe.berard1.free.fr/Famille/2016/Pages/Ionesco_a_Marseille.html</link>
+      <guid isPermaLink="false">97f75f7a-d1f2-4d14-9c7d-d8df3240d20b</guid>
+    </item>
+    <item>
+      <title>50 ans de mariage</title>
+      <link>http://philippe.berard1.free.fr/Famille/2016/Pages/50_ans_de_mariage.html</link>
+      <guid isPermaLink="false">c9a5f3e9-e3b8-44eb-8a90-5ff782daacaa</guid>
+    </item>
+    <item>
+      <title>Rando en Ardèche</title>
+      <link>http://philippe.berard1.free.fr/Famille/2016/Pages/Rando_en_Ardeche.html</link>
+      <guid isPermaLink="false">ad88ea0a-e1cb-4a27-81c6-52c2f4f452ec</guid>
+    </item>
+    <item>
+      <title>40 ans de Séverine</title>
+      <link>http://philippe.berard1.free.fr/Famille/2016/Pages/40_ans_de_Severine.html</link>
+      <guid isPermaLink="false">b8d22ec7-82e1-4061-af6e-688bceac3501</guid>
+    </item>
+    <item>
+      <title>Noël</title>
+      <link>http://philippe.berard1.free.fr/Famille/2016/Pages/Noel.html</link>
+      <guid isPermaLink="false">51547b3e-286f-4738-87a8-b678a11abd2d</guid>
+    </item>
+  </channel>
+</rss>

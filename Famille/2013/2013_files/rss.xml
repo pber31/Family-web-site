@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Photos 2013</title>
+    <link>http://philippe.berard1.free.fr/Famille/2013/2013.html</link>
+    <description>Photos 2013</description>
+    <item>
+      <title>Anniv Anna</title>
+      <link>http://philippe.berard1.free.fr/Famille/2013/Pages/Anniv_Anna.html</link>
+      <guid isPermaLink="false">b1fc0202-a206-4e1e-b5d6-e389977dd2a1</guid>
+    </item>
+    <item>
+      <title>WE à Montpellier</title>
+      <link>http://philippe.berard1.free.fr/Famille/2013/Pages/WE_a_Montpellier.html</link>
+      <guid isPermaLink="false">3ed2025b-dd2b-475f-83ea-383554fbf123</guid>
+    </item>
+    <item>
+      <title>Marathon Marseille</title>
+      <link>http://philippe.berard1.free.fr/Famille/2013/Pages/Marathon_Marseille.html</link>
+      <guid isPermaLink="false">296c0821-38dd-4df4-bf3c-af8cfee60b27</guid>
+    </item>
+    <item>
+      <title>Pâques</title>
+      <link>http://philippe.berard1.free.fr/Famille/2013/Pages/Paques.html</link>
+      <guid isPermaLink="false">4595d01c-40a1-42b6-898b-13548639835a</guid>
+    </item>
+    <item>
+      <title>WE Pyrénées</title>
+      <link>http://philippe.berard1.free.fr/Famille/2013/Pages/WE_Pyrenees.html</link>
+      <guid isPermaLink="false">c77a3324-b529-46a7-b2b1-29b57f6de3ab</guid>
+    </item>
+    <item>
+      <title>Anniv Elise</title>
+      <link>http://philippe.berard1.free.fr/Famille/2013/Pages/Anniv_Elise.html</link>
+      <guid isPermaLink="false">5b2d6b07-3a84-4044-a05c-9b77ec451347</guid>
+    </item>
+    <item>
+      <title>Laréole</title>
+      <link>http://philippe.berard1.free.fr/Famille/2013/Pages/Lareole.html</link>
+      <guid isPermaLink="false">da37133d-de71-45a5-84f1-edfde59920cb</guid>
+    </item>
+    <item>
+      <title>La Rochelle</title>
+      <link>http://philippe.berard1.free.fr/Famille/2013/Pages/La_Rochelle.html</link>
+      <guid isPermaLink="false">06e004d7-158c-477e-9f02-fa6d1d324a37</guid>
+    </item>
+    <item>
+      <title>Drôme - Ardèche</title>
+      <link>http://philippe.berard1.free.fr/Famille/2013/Pages/Drome_-_Ardeche.html</link>
+      <guid isPermaLink="false">6d908fa1-a5f1-4a4f-8357-3757cba20146</guid>
+    </item>
+  </channel>
+</rss>

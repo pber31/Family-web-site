@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Photos 2014</title>
+    <link>http://philippe.berard1.free.fr/Famille/2014/2014.html</link>
+    <description>Photos 2014</description>
+    <item>
+      <title>Anniv Anna</title>
+      <link>http://philippe.berard1.free.fr/Famille/2014/Pages/Anniv_Anna.html</link>
+      <guid isPermaLink="false">9aeecdbe-a74b-46c0-95ac-68ad2f23d6e1</guid>
+    </item>
+    <item>
+      <title>Séville</title>
+      <link>http://philippe.berard1.free.fr/Famille/2014/Pages/Seville.html</link>
+      <guid isPermaLink="false">f525c7e0-3ab2-4d01-b42a-9a0e628630ca</guid>
+    </item>
+    <item>
+      <title>Vietnam</title>
+      <link>http://philippe.berard1.free.fr/Famille/2014/Pages/Vietnam.html</link>
+      <guid isPermaLink="false">9a61fd72-f53f-4dbb-aef8-f29cd08ec920</guid>
+    </item>
+    <item>
+      <title>Anniv Elise</title>
+      <link>http://philippe.berard1.free.fr/Famille/2014/Pages/Anniv_Elise.html</link>
+      <guid isPermaLink="false">91e60429-f3d8-4146-8cdc-5bee5b16456a</guid>
+    </item>
+    <item>
+      <title>Hérault</title>
+      <link>http://philippe.berard1.free.fr/Famille/2014/Pages/Herault.html</link>
+      <guid isPermaLink="false">f2dae1b3-5924-43f5-b62f-273c6be1fc02</guid>
+    </item>
+    <item>
+      <title>Erdeven</title>
+      <link>http://philippe.berard1.free.fr/Famille/2014/Pages/Erdeven.html</link>
+      <guid isPermaLink="false">456635cb-8769-4f0a-a06e-3c6f20a2109b</guid>
+    </item>
+    <item>
+      <title>Meeting Aérien</title>
+      <link>http://philippe.berard1.free.fr/Famille/2014/Pages/Meeting_Aerien.html</link>
+      <guid isPermaLink="false">1683c82e-7809-4cb0-b417-143b5c7fa111</guid>
+    </item>
+    <item>
+      <title>Noël</title>
+      <link>http://philippe.berard1.free.fr/Famille/2014/Pages/Noel.html</link>
+      <guid isPermaLink="false">8c03070e-c50f-4fc0-aee8-336ce26a92fb</guid>
+    </item>
+  </channel>
+</rss>
