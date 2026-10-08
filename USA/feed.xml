@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:D4FDEA89-DB0E-4905-B7D0-1A747645AB66</id>
+ <title>Page list Atom feed</title>
+ <updated>2026-10-07T08:47:57+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:996D9DEF-FADF-446D-93D3-6606D0A39B98</id>
+  <title>Accueil</title>
+  <title xmlns="urn:iweb:">Accueil</title>
+  <in-navbar xmlns="urn:iweb:">996D9DEF-FADF-446D-93D3-6606D0A39B98</in-navbar>
+  <link rel="alternate" href="Accueil.html"/>
+  <updated>2026-10-07T08:47:57.001+02:00</updated>
+  <content>Accueil</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3585DD8E-4EF7-49D7-B860-8442F309AF1F</id>
+  <title>Monterey</title>
+  <title xmlns="urn:iweb:">Monterey</title>
+  <in-navbar xmlns="urn:iweb:">3585DD8E-4EF7-49D7-B860-8442F309AF1F</in-navbar>
+  <link rel="alternate" href="Monterey.html"/>
+  <updated>2026-10-07T08:47:57.002+02:00</updated>
+  <content>Monterey</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:50129F10-DDC0-4741-90C3-14DA23BA2B24</id>
+  <title>Los Angeles</title>
+  <title xmlns="urn:iweb:">Los Angeles</title>
+  <in-navbar xmlns="urn:iweb:">50129F10-DDC0-4741-90C3-14DA23BA2B24</in-navbar>
+  <link rel="alternate" href="Los_Angeles.html"/>
+  <updated>2026-10-07T08:47:57.003+02:00</updated>
+  <content>Los Angeles</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C70749E8-0FD8-428F-B2E3-A2F5812A1A58</id>
+  <title>Grand Canyon</title>
+  <title xmlns="urn:iweb:">Grand Canyon</title>
+  <in-navbar xmlns="urn:iweb:">C70749E8-0FD8-428F-B2E3-A2F5812A1A58</in-navbar>
+  <link rel="alternate" href="Grand_Canyon.html"/>
+  <updated>2026-10-07T08:47:57.004+02:00</updated>
+  <content>Grand Canyon</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E86C01BE-6754-40D5-9BBA-23F09EFEAF0F</id>
+  <title>Page</title>
+  <title xmlns="urn:iweb:">Page</title>
+  <in-navbar xmlns="urn:iweb:">E86C01BE-6754-40D5-9BBA-23F09EFEAF0F</in-navbar>
+  <link rel="alternate" href="Page.html"/>
+  <updated>2026-10-07T08:47:57.005+02:00</updated>
+  <content>Page</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:34673966-0D85-4D46-932C-21A6B221243A</id>
+  <title>Bryce Canyon</title>
+  <title xmlns="urn:iweb:">Bryce Canyon</title>
+  <in-navbar xmlns="urn:iweb:">34673966-0D85-4D46-932C-21A6B221243A</in-navbar>
+  <link rel="alternate" href="Bryce_Canyon.html"/>
+  <updated>2026-10-07T08:47:57.006+02:00</updated>
+  <content>Bryce Canyon</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:94928C65-C258-40D2-9B2F-DD63B7A12686</id>
+  <title>Zion Canyon</title>
+  <title xmlns="urn:iweb:">Zion Canyon</title>
+  <in-navbar xmlns="urn:iweb:">94928C65-C258-40D2-9B2F-DD63B7A12686</in-navbar>
+  <link rel="alternate" href="Zion_Canyon.html"/>
+  <updated>2026-10-07T08:47:57.007+02:00</updated>
+  <content>Zion Canyon</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:27FFDE4B-FCAF-47FC-9416-6A77AAC10B94</id>
+  <title>Las Vegas</title>
+  <title xmlns="urn:iweb:">Las Vegas</title>
+  <in-navbar xmlns="urn:iweb:">27FFDE4B-FCAF-47FC-9416-6A77AAC10B94</in-navbar>
+  <link rel="alternate" href="Las_Vegas.html"/>
+  <updated>2026-10-07T08:47:57.008+02:00</updated>
+  <content>Las Vegas</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:7DB427B6-863B-4CFA-89FB-61226085C555</id>
+  <title>Death Valley</title>
+  <title xmlns="urn:iweb:">Death Valley</title>
+  <in-navbar xmlns="urn:iweb:">7DB427B6-863B-4CFA-89FB-61226085C555</in-navbar>
+  <link rel="alternate" href="Death_Valley.html"/>
+  <updated>2026-10-07T08:47:57.009+02:00</updated>
+  <content>Death Valley</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D5FEB6C3-5911-4120-A10F-B371C6FF4F56</id>
+  <title>Yosemite</title>
+  <title xmlns="urn:iweb:">Yosemite</title>
+  <in-navbar xmlns="urn:iweb:">D5FEB6C3-5911-4120-A10F-B371C6FF4F56</in-navbar>
+  <link rel="alternate" href="Yosemite.html"/>
+  <updated>2026-10-07T08:47:57.010+02:00</updated>
+  <content>Yosemite</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:123FB435-0549-4005-A4DF-84072D0467E0</id>
+  <title>San Francisco</title>
+  <title xmlns="urn:iweb:">San Francisco</title>
+  <in-navbar xmlns="urn:iweb:">123FB435-0549-4005-A4DF-84072D0467E0</in-navbar>
+  <link rel="alternate" href="San_Francisco/San_Francisco.html"/>
+  <updated>2026-10-07T08:47:57.011+02:00</updated>
+  <content>San Francisco</content>
+ </entry>
+</feed>
